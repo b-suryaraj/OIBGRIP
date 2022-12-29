@@ -1,0 +1,117 @@
+html{
+    background-color: rgb(133, 183, 223);
+}
+body{
+    border: 6px solid rgb(5, 78, 33);
+    width: 1000px;
+    align-self: center;
+    margin-left: 285px;
+    margin-right: 150px;
+    margin-top: 25px;
+    padding-bottom: 50px;
+    /* background-color: rgb(54 2 61); */
+    background: linear-gradient(to left,rgb(54 2 61),#0c3b60);
+}
+strong{
+    font-family: 'Handlee', cursive;
+    color: #eded47;;
+}
+#name{
+    text-align: center;
+    font-size: 65px;
+    margin-bottom: -17px;
+    font-family: 'Merienda', cursive;
+}
+#head{
+    margin-left: 523px;
+    font-size: 30px;
+    font-family: 'Handlee', cursive;
+}
+#main{
+    margin-left: 599px;
+    height: 256px;
+    width: 371px;
+    margin-top: 84px;
+    border-radius: 99px;
+}
+.heading{
+    background: #83ce88;
+}
+.container1{
+    margin-left: 41px;
+    width: 494px;
+}
+.legend{
+    margin-top: -313px;
+    padding-left: 26px;
+    font-size: xx-large;
+    color: aquamarine;
+    font-family: 'Josefin Slab', serif;
+}
+.about1{
+    width: 517px;
+    margin-left: 31px;
+    color: beige;
+}
+.container2{
+    width: 500px;
+    width: 484px;
+    margin-left: 15px;
+    margin-top: 83px;
+}
+.legend1 {
+    margin-left: 38px;
+    font-size: xx-large;
+    margin-top: 35px;
+    width: 420px;
+    color: aquamarine;
+    font-family: 'Josefin Slab', serif;
+}
+.about2 {
+    margin-left: 56px;
+    margin-right: 60px;
+    color: antiquewhite;
+    font-size: 18px;
+}
+.container3 {
+    margin-top: -499px;
+    width: 435px;
+    margin-left: 502px;
+    height: 450px;
+}
+.legend2{
+    margin-left: 32px;
+    margin-top: -382px;
+    font-size: xx-large;
+    width: 388px;
+    color: aquamarine;
+    font-family: 'Josefin Slab', serif;
+}
+.about3{
+    padding-left: 13px;
+    margin-right: 42px;
+    margin-left: 53px;
+    color: antiquewhite;
+    font-size: 18px;
+}
+.ending{
+    margin-top: 149px;
+    background: #aaaaaa59;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+#last{
+    margin-left: 201px;
+    margin-top: 37px;
+    border: 3px solid grey;
+}
+.quote{
+    height: 58px;
+    margin-left: 594px;
+    margin-right: 101px;
+    margin-top: -71px;
+    padding-bottom: 44px;
+    color: aliceblue;
+    font-size: 19px;
+    font-family: 'Pangolin', cursive;
+}
